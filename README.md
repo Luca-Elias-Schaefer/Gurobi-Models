@@ -8,5 +8,6 @@ In this project, one can find an extensive collection of classical optimization 
 
 ## Problems
 - p-Center Location Problem
-- Minimum Maximal Matching
+- Minimum Maximal Matching Problem
 - Uncapacitated Multiple Allocation p-Hub Median Location Problem
+- Maximum Flow Network Interdiction Problem
