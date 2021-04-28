@@ -12,3 +12,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Uncapacitated Multiple Allocation p-Hub Median Location Problem
 - Maximum Flow Network Interdiction Problem
 - Shortest Path Network Interdiction Problem
+- Binary Knapsack Problem
