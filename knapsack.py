@@ -2,7 +2,7 @@ from gurobipy import *
 import random as rd
 
 
-def solveKnaosack(items: list, profits: dict, weights: dict, capacity: int) -> list:
+def solveKnapsack(items: list, profits: dict, weights: dict, capacity: int) -> list:
     """
     Solves the binary knapsack problem.
     :param items: List of items
