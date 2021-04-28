@@ -49,6 +49,6 @@ if __name__ == '__main__':
     weights = {i: rd.randint(0, 10) for i in items}
     capacity = 15
 
-    optitems = solveKnaosack(items, profits, weights, capacity)
+    optitems = solveKnapsack(items, profits, weights, capacity)
     print('Optimal items: {}'.format(optitems))
 
