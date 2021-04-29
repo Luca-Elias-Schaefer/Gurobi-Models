@@ -13,3 +13,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Maximum Flow Network Interdiction Problem
 - Shortest Path Network Interdiction Problem
 - Binary Knapsack Problem
+- Shortest Path Problem
