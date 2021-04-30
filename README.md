@@ -14,3 +14,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Shortest Path Network Interdiction Problem
 - Binary Knapsack Problem
 - Shortest Path Problem
+- Vertex Cover Problem
