@@ -15,3 +15,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Binary Knapsack Problem
 - Shortest Path Problem
 - Vertex Cover Problem
+- p-Median Location Problem
