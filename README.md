@@ -16,6 +16,3 @@ In this project, one can find an extensive collection of classical optimization 
 - Shortest Path Problem
 - Vertex Cover Problem
 - p-Median Location Problem
-
-## Literature
-Garey, M. R., Johnson, D. S. (1979). Computers and Intractability: A Guide to the Theory of NP-Completeness (Series of Books in the Mathematical Sciences). W. H. Freeman.
