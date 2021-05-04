@@ -16,3 +16,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Shortest Path Problem
 - Vertex Cover Problem
 - p-Median Location Problem
+- Biobjective Shortest Paths Problem
