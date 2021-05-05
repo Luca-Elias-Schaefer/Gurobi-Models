@@ -17,3 +17,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Vertex Cover Problem
 - p-Median Location Problem
 - Biobjective Shortest Paths Problem
+- Set Cover Problem
