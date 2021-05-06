@@ -18,3 +18,4 @@ In this project, one can find an extensive collection of classical optimization 
 - p-Median Location Problem
 - Biobjective Shortest Paths Problem
 - Set Cover Problem
+- Subset Sum Problem
