@@ -5,6 +5,8 @@ In this project, one can find an extensive collection of classical optimization 
 - gurobipy
 - networkx
 - random
+- itertools
+- time
 
 ## Problems
 - p-Center Location Problem
@@ -19,3 +21,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Biobjective Shortest Paths Problem
 - Set Cover Problem
 - Subset Sum Problem
+- Travelling Salesman Problem
