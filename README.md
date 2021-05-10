@@ -22,3 +22,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Set Cover Problem
 - Subset Sum Problem
 - Travelling Salesman Problem
+- Maximum Clique Problem
