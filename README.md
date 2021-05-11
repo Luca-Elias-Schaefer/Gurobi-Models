@@ -23,3 +23,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Subset Sum Problem
 - Travelling Salesman Problem
 - Maximum Clique Problem
+- Weight-constrained Shortest Path Problem
