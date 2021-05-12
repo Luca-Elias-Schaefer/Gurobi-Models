@@ -24,4 +24,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Travelling Salesman Problem
 - Maximum Clique Problem
 - Weight-constrained Shortest Path Problem
-- Max Flow Problem
+- Maximum Flow Problem
