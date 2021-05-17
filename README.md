@@ -25,3 +25,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Maximum Clique Problem
 - Weight-constrained Shortest Path Problem
 - Maximum Flow Problem
+- Multicommodity Maximum Flow Problem
