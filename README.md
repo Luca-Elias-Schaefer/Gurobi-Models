@@ -26,3 +26,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Weight-constrained Shortest Path Problem
 - Maximum Flow Problem
 - Multicommodity Maximum Flow Problem
+- Minimum Cost Flow Problem
