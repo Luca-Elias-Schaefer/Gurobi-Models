@@ -27,3 +27,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Maximum Flow Problem
 - Multicommodity Maximum Flow Problem
 - Minimum Cost Flow Problem
+- Multicommodity Minimum Cost Flow Problem
