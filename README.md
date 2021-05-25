@@ -11,16 +11,16 @@ In this project, one can find an extensive collection of classical optimization 
 ## Problems
 - p-Center Location Problem (pCenterLocation.py)
 - Minimum Maximal Matching Problem (minmaxmatching.py)
-- Uncapacitated Multiple Allocation p-Hub Median Location Problem
-- Maximum Flow Network Interdiction Problem
-- Shortest Path Network Interdiction Problem
-- Binary Knapsack Problem
-- Shortest Path Problem
-- Vertex Cover Problem
-- p-Median Location Problem
-- Biobjective Shortest Paths Problem
-- Set Cover Problem
-- Subset Sum Problem
+- Uncapacitated Multiple Allocation p-Hub Median Location Problem (HubLocation.py)
+- Maximum Flow Network Interdiction Problem (MaxFlowInterdiction.py)
+- Shortest Path Network Interdiction Problem (shortestPathInterdiction.py)
+- Binary Knapsack Problem (knapsack.py)
+- Shortest Path Problem (shortestPath.py)
+- Vertex Cover Problem (vertexCover.py)
+- p-Median Location Problem (pMedian.py)
+- Biobjective Shortest Paths Problem (BiobjectiveShortestPaths.py)
+- Set Cover Problem (setCover.py)
+- Subset Sum Problem (subsetsum.py)
 - Travelling Salesman Problem
 - Maximum Clique Problem
 - Weight-constrained Shortest Path Problem
