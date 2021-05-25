@@ -9,7 +9,7 @@ In this project, one can find an extensive collection of classical optimization 
 - time
 
 ## Problems
-- p-Center Location Problem
+- p-Center Location Problem (pCenterLocation.py)
 - Minimum Maximal Matching Problem
 - Uncapacitated Multiple Allocation p-Hub Median Location Problem
 - Maximum Flow Network Interdiction Problem
