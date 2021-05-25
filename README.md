@@ -21,10 +21,10 @@ In this project, one can find an extensive collection of classical optimization 
 - Biobjective Shortest Paths Problem (BiobjectiveShortestPaths.py)
 - Set Cover Problem (setCover.py)
 - Subset Sum Problem (subsetsum.py)
-- Travelling Salesman Problem
-- Maximum Clique Problem
-- Weight-constrained Shortest Path Problem
-- Maximum Flow Problem
-- Multicommodity Maximum Flow Problem
-- Minimum Cost Flow Problem
-- Multicommodity Minimum Cost Flow Problem
+- Travelling Salesman Problem (travellingSalesman.py)
+- Maximum Clique Problem (clique.py)
+- Weight-constrained Shortest Path Problem (weightConstrainedShortestPath.py)
+- Maximum Flow Problem (maxFlow.py)
+- Multicommodity Maximum Flow Problem (multicommodityMaxFlow.py)
+- Minimum Cost Flow Problem (minCostFlow.py)
+- Multicommodity Minimum Cost Flow Problem (multicommodityMinCostFlow.py)
