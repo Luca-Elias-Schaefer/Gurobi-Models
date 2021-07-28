@@ -28,3 +28,4 @@ In this project, one can find an extensive collection of classical optimization 
 - Multicommodity Maximum Flow Problem (multicommodityMaxFlow.py)
 - Minimum Cost Flow Problem (minCostFlow.py)
 - Multicommodity Minimum Cost Flow Problem (multicommodityMinCostFlow.py)
+- Quadratic Assignment Problem (quadraticAssignment.py)
